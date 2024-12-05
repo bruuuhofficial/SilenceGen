@@ -1,3 +1,5 @@
+![Preview Image](Screenshot_1-min (2).png)
+
 SilenceGen
 Tip
 
